@@ -9,7 +9,8 @@
     "module": "nodenext",
     "target": "esnext",
     "lib": [
-      "ESNext"
+      "ESNext",
+      "DOM"
     ]
   },
   "include": [
